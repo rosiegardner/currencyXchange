@@ -17,7 +17,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new Dotenv(),
     new HtmlWebpackPlugin({
-      title: 'Template Repo',
+      title: 'Currency Xchange',
       template: './src/index.html',
       inject: 'body'
     })
