@@ -28,7 +28,7 @@
 
 ## Known Bugs
 
-* Can only access one selected Currency "CAD"
+* NO KNOWN BUGS
 
 ## License
 
